@@ -138,9 +138,17 @@ a:after {
 }
 
 #f i {
+	color: #fff;
+    padding: 3px;
+    top: 3px;
+    position: relative;
+}
+
+#f p.centered i {
 	font-size: 8px;
 	color: #fff;
     padding: 3px;
+    position: static;
 }
 
 #f p {
